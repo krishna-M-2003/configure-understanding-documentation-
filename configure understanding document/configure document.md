@@ -64,7 +64,7 @@
 
   * Field tab - Create the field what we desire.
 
-  * Form -   
+  * Form 
 
 * To create an entity, choose the **add entity** option that appears when you click on the collection you created. 
 
@@ -75,8 +75,7 @@
 * Basic Forms Types -
    
    * Table - its has **Configurtion** like show edit or not show create or not like that, **Colomns** add the wanted colonms, **Datasource** select what your need like Rest Api, Collection, entity, ect.. **sorting**
-   * Card - 
-   * List -
+  
    * CustomTemplate - its has HTML, CSS, JS, Configuration 
    * Details - design, rules, config
 
