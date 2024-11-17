@@ -74,7 +74,7 @@
 
 * Basic Forms Types -
    
-   * Table - its has **Configurtion** like show edit or not show create or not like that, **Colomns** add the wanted colonms, **Datasource** select what your need like Rest Api, Collection, entity, ect.. **sorting**
+   * Table - its has **Configurtion** like show edit or not show create, **Colomns** add the wanted colonms, **Datasource** select what your need like Rest Api, Collection, entity, ect.. **sorting**
   
    * CustomTemplate - its has HTML, CSS, JS, Configuration 
    * Details - design, rules, config
